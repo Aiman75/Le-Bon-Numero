@@ -1,0 +1,19 @@
+html {
+    font-family: sans-serif;
+}
+
+.titre {
+    text-align: center;
+}
+
+.consigne {
+    color: blueviolet;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.rafraichir {
+    max-width: 30px;
+}
+
